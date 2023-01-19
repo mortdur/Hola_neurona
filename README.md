@@ -6,4 +6,4 @@ Aplicación con Python y Streamlit "Hola neurona"
 <img width="400px" src="https://drive.google.com/uc?id=1eA_lxC37CElCaRiesQnONw3mV9cu9CNE">
 <img width="400px" src="https://drive.google.com/uc?id=1sOwF5Z3XUvbq3BXAFfcee8GZX-eq-lLG">
 <img width="400px" src="https://drive.google.com/uc?id=1q7FMjsQ4vGbPNtM7qmGfwyonTJOux7Kl">
-[Web](https://mortdur-hola-neurona-app-5rum03.streamlit.app/)
+<a href="https://mortdur-hola-neurona-app-5rum03.streamlit.app">App</a>
